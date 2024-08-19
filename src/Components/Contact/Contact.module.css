@@ -1,0 +1,140 @@
+.contact{
+    min-height: 70vh;
+    background-color: #31333B;
+    margin: 0 auto;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: #3D3E42;
+    position: relative;
+    padding-top: 20px;
+}
+
+.hr1{
+    width: 500px;
+    background-color: #F3C06C;
+    height: 3px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    left: 0px;
+    top: 120px;
+}
+
+.hr2{
+    width: 500px;
+    background-color: #F3C06C;
+    height: 3px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    right: 0px;
+    top: 120px;
+}
+
+.hr3{
+    width: 580px;
+    background-color: #F3C06C;
+    height: 3px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    left: 0px;
+    top: 480px;
+}
+
+.hr4{
+    width: 580px;
+    background-color: #F3C06C;
+    height: 3px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    right: 0px;
+    top: 480px;
+}
+
+.contact h1{
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.mail_no{
+    display: flex;
+    gap: 20px;
+}
+
+.box{
+    width: 300px;
+    height: 50px;
+    background-color: #31333B;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 18px;
+}
+
+.box h5{
+    font-size: 20px;
+    font-weight: 500;
+    color: #F3C06C;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+.social{
+    font-size: 33px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-top: 50px;
+}
+
+a{
+    color: #fff;
+}
+
+.end{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#F3C06C;
+    position: relative;
+}
+
+.end h1{
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.arrow{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: -15px;
+    bottom: 40px;
+    border-radius: 100%;
+    border: 2px solid #F3C06C;
+}
+
+.arr{
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    left: 33px;
+    top: 33px;
+    color: #fff;
+}
+
+span{
+    color: #fac05c;
+}

@@ -1,0 +1,36 @@
+.btn{
+    padding: 12px 30px;
+    min-width: 200px;
+    color: #fac05c;
+    background-color: #30333A;
+    border-radius: 13px;
+    cursor: pointer;
+    font-size: 30px;
+    border: 5px solid #fac05c;
+    transition: 0.4s ease-in;
+}
+
+.btn:hover{
+    background-color: #fac05c;
+    color: #30333A;
+    border: 5px solid #30333A;
+    transition: 0.4s ease-in;
+}
+
+.transp_btn{
+    padding: 10px 50px;
+    color: #000;
+    min-width: 200px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s ease-in;
+}
+
+.transp_btn:hover{
+    background-color: #000;
+    color: #fff;
+    border: 1px solid transparent;
+    transition: 0.4s ease-in;
+}

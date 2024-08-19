@@ -1,0 +1,41 @@
+.about{
+    padding: 100px 110px;
+    min-height: 100vh;
+    background-color: #31333B;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.about h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.content{
+    margin-top: 25px;
+    position: relative;
+}
+
+.content p{
+    font-size: 30px;
+    padding: 0 0 0 90px;
+}
+
+p span{
+    color: #fac05c;
+}
+
+.content hr{
+    position: absolute;
+    width: 70px;
+    height: 3px;
+    border-radius: 50px;
+    background-color: #fac05c;
+    border: none;
+    display: inline-block;
+    top: 15px;
+}
+
+span{
+    color: #fac05c;
+}
